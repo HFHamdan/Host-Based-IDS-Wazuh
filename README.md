@@ -1,8 +1,15 @@
 # Host-Based-IDS-Wazuh
 
+#Overview
+What the project is — deploying a Host-Based IDS to monitor a Windows machine for suspicious activity and demonstrate SOC alert analysis.
+Tools & Setup
+
+-Wazuh (manager on Ubuntu VM)
+-VMware Workstation (bridge adapter)
+-Windows 11 as monitored endpoint
+<(maybe other tools to generate alerts)>
 
 
-# <read doc> 
-# agents <deploy on you own machine>
-windows agent deployed 
+#Simulated Threat Scenarios
+
 # make sure to redact PI
