@@ -12,4 +12,9 @@ Tools & Setup
 
 # Simulated Threat Scenarios
 
+
+# Alert Analysis
+
+Screenshots of Wazuh dashboard here.... 
+
 # make sure to redact PI
