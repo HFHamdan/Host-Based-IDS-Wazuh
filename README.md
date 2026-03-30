@@ -1,6 +1,6 @@
 # Host-Based-IDS-Wazuh
 
-#Overview
+# Overview
 What the project is — deploying a Host-Based IDS to monitor a Windows machine for suspicious activity and demonstrate SOC alert analysis.
 Tools & Setup
 
@@ -10,6 +10,6 @@ Tools & Setup
 <(maybe other tools to generate alerts)>
 
 
-#Simulated Threat Scenarios
+# Simulated Threat Scenarios
 
 # make sure to redact PI
